@@ -1,0 +1,16 @@
+{
+  "name": "somesh-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "dev": "next dev", "build": "next build", "start": "next start" },
+  "dependencies": {
+    "@react-three/drei": "9.114.0",
+    "@react-three/fiber": "8.17.10",
+    "framer-motion": "11.11.1",
+    "next": "14.2.15",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.160.0"
+  },
+  "devDependencies": { "autoprefixer": "10.4.20", "postcss": "8.4.47", "tailwindcss": "3.4.14" }
+}

@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { @apply bg-bg text-[#f4f1fa] font-sans overflow-x-hidden; }
+@media (hover: hover) { body, a, button { cursor: none; } }
+.glow { background:
+  radial-gradient(60% 50% at 95% 0%, #7c3aed44, transparent 70%),
+  radial-gradient(50% 40% at 0% 100%, #4c1d9533, transparent 70%); }
+@media (prefers-reduced-motion: reduce) { * { animation-duration: .01ms !important; transition-duration: .01ms !important; } html { scroll-behavior: auto; } }
