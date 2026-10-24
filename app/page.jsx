@@ -14,8 +14,18 @@ import Contact from '@/components/Contact'
 export default function Page() {
   return (
     <main>
-      <Cursor /><ScrollBar /><Header /><SceneLoader />
-      <Hero /><About /><WhatIDo /><Stats /><Career /><Work /><Tech /><Contact />
+      <Cursor />
+      <ScrollBar />
+      <Header />
+      <SceneLoader />
+      <Hero />
+      <About />
+      <WhatIDo />
+      <Stats />
+      <Career />
+      <Work />
+      <Tech />
+      <Contact />
     </main>
   )
 }
