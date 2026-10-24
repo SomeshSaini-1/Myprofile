@@ -9,7 +9,7 @@ export const PROFILE = {
 export const ROLES = [['FULL STACK', 'DEVELOPER'], ['IOT', 'ENGINEER'], ['MERN', 'DEVELOPER']]
 
 export const ABOUT =
-  'I’m Somesh Saini, a Full Stack & IoT developer from Jaipur with 3.5+ years of experience building real-time IoT data platforms and production web apps with React, Node.js, MongoDB, and ESP32 hardware. I’ve shipped 7+ live projects serving 700+ users, and I’m open to relocating to Germany.'
+  'I’m Somesh Saini, a Full Stack & IoT developer from Jaipur with 3.5+ years of experience building real-time IoT data platforms and production web apps with React, Node.js, MongoDB, and ESP32 hardware. I’ve shipped 7+ live projects serving 700+ users, and I’m open to relocating to .'
 
 export const STATS = [
   { n: 3.5, label: 'years of experience' },
